@@ -1,0 +1,22 @@
+.videos {
+  h5 {
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+  .video {
+    font-weight: 700;
+    background-color: white;
+    padding: 10px;
+
+    a {
+      color: $brown;
+      text-decoration: none;
+    }
+
+    .post-title {
+      margin-top: 10px;
+    }
+  }
+}

@@ -1,0 +1,46 @@
+---
+---
+
+@import 'colors';
+@import 'fonts';
+
+body {
+  font-family: 'Museo Sans';
+  background-color: $gray;
+}
+
+.header {
+  width: 100%;
+  height: 78px;
+  background: $red no-repeat center 63% url("/assets/images/ruby-apple-logo.png");
+
+  .inner-header {
+    margin: 0 auto;
+    width: 270px;
+    padding-top: 2px;
+  }
+
+  .title {
+    margin-top: 30px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+
+  img {
+    vertical-align: top;
+    padding-left: 10px;
+    padding-right: 15px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+@import 'videos';
+@import 'post';
+

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class='container'>
+  <div class='row'>
+    <div class='col-xs-12'>
+      <article class="post">
+        <h3 class="post-speaker">{{ page.speaker}}</h2>
+        <h4 class="post-title">{{ page.title}}</h3>
+
+        <img src='{{ page.image-url }}' class='img-responsive' />
+
+        <div class="post-content">
+        </div>
+      </article>
+    </div>
+
+    <div class='col-xs-8'>
+      {{ content }}
+    </div>
+
+    <div class='col-xs-4'>
+      {{ page.bio }}
+    </div>
+
+  </div>
+</div>

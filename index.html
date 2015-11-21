@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class='container videos'>
+  <div class='row'>
+      <div class='col-xs-12'>
+        <h5>2014</h5>
+      </div>
+
+      {% for post in site.posts %}
+        {% if post.url contains '2014' %}
+          <div class='col-xs-4'>
+            <div class='video'>
+              <a href='{{ post.url }}'>
+                <img src='{{ post.image-url }}' class='img-responsive'/>
+                <div class='post-title'>
+                  {{ post.title }} - {{post.speaker}}
+                </div>
+              </a>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+  </div>
+</div>
