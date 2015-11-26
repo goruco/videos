@@ -2,8 +2,8 @@
 title: BI Tooling with Rails
 speaker: Solomon Kahn
 layout: post
-image-url: /assets/images/2014/solomon-kahn.png
-bio: Solomon Kahn is in charge of data and analytics at Paperless Post. He is the developer of MemoirPlace and AwesomeQuote, and does some civic hacking on the side. He blogs at solomonkahn.com and can be found on twitter at @SolomonKahn.
+year: 2014
+vimeo_video_id: 101025640
 ---
 
 Non-technical people in companies need data, but don't have the programming skills to get it themselves. So, it becomes your part-time job to get them data. As your company grows, this problem only gets worse.

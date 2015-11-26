@@ -13,7 +13,7 @@ layout: default
           <div class='col-xs-4'>
             <div class='video'>
               <a href='{{ post.url }}'>
-                <img src='{{ post.image-url }}' class='img-responsive'/>
+               <img src='/assets/images/{{ post.year }}/{{ post.speaker | slugify }}-video.jpg' class='img-responsive' />
                 <div class='post-title'>
                   {{ post.title }} - {{post.speaker}}
                 </div>

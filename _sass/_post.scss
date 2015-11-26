@@ -1,0 +1,44 @@
+.post {
+
+  h3 {
+    margin-top: 30px;
+  }
+
+  .iframe-video-wrapper {
+    margin-top: 23px;
+    padding-bottom: 56%;
+    position: relative;
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
+
+  .synopsis {
+    margin-top: 40px;
+
+    h3 {
+      margin-top: 20px;
+    }
+  }
+
+  .biography {
+    margin-top: 45px;
+    font-size: 14px;
+
+    .biography-image-col {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    img {
+      width: 59px;
+      height: 59px;
+      border-radius: 45px;
+    }
+  }
+}
