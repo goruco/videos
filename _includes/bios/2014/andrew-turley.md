@@ -1,0 +1,3 @@
+Andrew is a software engineer at TheLadders, where he works on the platform team using Clojure, Scala, shell scripts, and other increasingly unholy tools to turn databases and queues into mobile applications, websites, and emails.
+
+Before this he typed on computers at companies that made things like cell phones, embedded development platforms, audio equipment, and data integration software. He believes that engineering is the art of balancing tradeoffs, and that understanding the tradeoffs of different technologies in different contexts will help us design better systems. He picked up and read Ed Yourdon's "Learning to Program in Structured COBOL" on a lark and later noticed similarities between COBOL and some of the data processing frameworks he was working with.

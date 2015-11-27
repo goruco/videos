@@ -9,10 +9,15 @@
     font-weight: 700;
     background-color: white;
     padding: 10px;
+    margin-bottom: 20px;
 
     a {
       color: $brown;
       text-decoration: none;
+    }
+
+    img {
+      width: 100%;
     }
 
     .post-title {

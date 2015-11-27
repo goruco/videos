@@ -1,4 +1,3 @@
-
 Solomon Kahn is in charge of data and analytics at Paperless Post.
 He is the developer of MemoirPlace and AwesomeQuote, and does some
 civic hacking on the side.  He blogs at

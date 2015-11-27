@@ -1,11 +1,12 @@
 ---
-title: BI Tooling with Rails
 speaker: Solomon Kahn
-layout: post
+title: BI Tooling with Rails
 year: 2014
 vimeo_video_id: 101025640
+layout: post
 ---
 
+###Talk Synopsis
 Non-technical people in companies need data, but don't have the programming skills to get it themselves. So, it becomes your part-time job to get them data. As your company grows, this problem only gets worse.
 
 We built a (soon to be released as open source) Ruby on Rails app that has completely transformed the way non-technical people at Paperless Post access data. With this 'simple' rails app, we are able to offer sophisticated, on demand, realtime reporting, that takes almost no developer time.

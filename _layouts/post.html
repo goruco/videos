@@ -33,12 +33,14 @@ layout: default
         <div class='biography'>
           <h4>Biography</h4>
 
+          {% capture speaker_slug %}{{ page.speaker | slugify }}{% endcapture %}
           <div class='col-xs-2 biography-image-col'>
-            <img src='/assets/images/{{ page.year }}/{{ page.speaker | slugify }}.jpg' class='img-responsive' />
+            <img src='/assets/images/{{ page.year }}/{{ speaker_slug }}.jpg' class='img-responsive' />
           </div>
 
           <div class='col-xs-10'>
-            {% include bios/{{ page.url | replace_first: '/', '' | replace: '/', '-' }} %}
+            {% capture biography-include %}{% include bios/{{ page.year | append: '/' | append: speaker_slug }}.md %}{% endcapture %}
+            {{ biography-include | markdownify }}
           </div>
         </div>
       </div>
