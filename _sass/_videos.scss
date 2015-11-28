@@ -11,6 +11,18 @@
     padding: 10px;
     margin-bottom: 20px;
 
+    @include sm-screen {
+      min-height: 280px;
+    }
+
+    @include md-screen {
+      min-height: 250px;
+    }
+
+    @include lg-screen {
+      min-height: 230px;
+    }
+
     a {
       color: $brown;
       text-decoration: none;
