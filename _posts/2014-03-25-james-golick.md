@@ -3,6 +3,7 @@ speaker: James Golick
 title: How to Debug Anything
 year: 2014
 vimeo_video_id: 102226493
+bio_photo: james-golick
 ---
 
 Does your code work? Probably not. The libraries you're using probably don't work either. If you're lucky, the OS does, but even then you'll probably find something wrong if you look hard enough.

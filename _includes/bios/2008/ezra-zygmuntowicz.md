@@ -1,0 +1,1 @@
+[Ezra Zygmuntowicz](http://brainspl.at) has been a member of the ruby community for almost 5 years now. He has written &#8220;Deploying Rails Applications&#8221; for the pragmatic programmers as well as speaking at many ruby related conferences. Ezra is a cofounder and lead Software Developer at EngineYard.com.

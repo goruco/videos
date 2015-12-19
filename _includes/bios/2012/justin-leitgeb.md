@@ -1,0 +1,1 @@
+Justin has been programming for more than 15 years, with the last five primarily in Ruby. He has an undergraduate degree in Computer Science and graduate degrees in Sociology and Spanish Literature. He ties these interests together as CEO and Lead Developer of Stack Builders, a Ruby consultancy based in New York and Colombia, South America.

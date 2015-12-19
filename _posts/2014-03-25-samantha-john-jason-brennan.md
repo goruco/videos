@@ -3,6 +3,7 @@ speaker: Samantha John, Jason Brennan
 title: Designing a better Programmer Community
 year: 2014
 vimeo_video_id: 101020272
+bio-photo: samantha-john-jason-brennan
 ---
 
 We will show how new approaches to language design create a better programming community.

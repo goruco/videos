@@ -1,0 +1,1 @@
+Francis Hwang is a writer and software engineer. An active member of the Ruby community, he was the founder of NYC.rb, founding organizer of GORUCO, and a four-time RubyConf speaker. He is currently enjoying his Brooklyn-based consulting lifestyle.

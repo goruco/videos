@@ -3,7 +3,7 @@ speaker: Solomon Kahn
 title: BI Tooling with Rails
 year: 2014
 vimeo_video_id: 101025640
-layout: post
+bio_photo: solomon-kahn
 ---
 
 ###Talk Synopsis

@@ -3,6 +3,7 @@ speaker: Andrew Turley
 title: What we can learn from COBOL
 year: 2014
 vimeo_video_id: 102634629
+bio_photo: andrew-turley
 ---
 
 COBOL was originally conceived as a programming language for building business applications. At the time this primarily meant processing large amounts of data and transforming it into useful information (commonly known at ETL). Interest in this kind of programming waned as the personal computing revolution swept through the industry, but it is waxing with the new focus on data science and "big data".

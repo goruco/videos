@@ -1,0 +1,1 @@
+David Chelimsky is the lead developer/maintainer of RSpec, and has contributed to several other open source projects including Cucumber, Aruba, and Rails. He is currently a Senior Software Engineer at DRW Trading Group in Chicago, IL. In his spare time, David likes to play guitar, travel, and speak something resembling Portuguese.

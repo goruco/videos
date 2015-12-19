@@ -3,6 +3,7 @@ speaker: Mike Bernstein
 title: Know Your Types - Bringing Static Types to Dynamic Languages
 year: 2014
 vimeo_video_id: 101415185
+bio_photo: mike-bernstein
 ---
 
 After several years of being a professional programmer, I realized that I didn't really know what I was doing, and decided to teach myself Computer Science. After spending a year learning Computer Science from the ground up, I thought I was starting to understand things. Then I came across Haskell.

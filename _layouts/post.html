@@ -18,6 +18,17 @@ layout: default
             ></iframe>
           </div>
         {% endif %}
+
+        {% if page.youtube_video_id%}
+          <div class='iframe-video-wrapper'>
+            <iframe
+              src="//www.youtube.com/embed/{{ page.youtube_video_id}}"
+              width="950"
+              height="540"
+              frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen
+            ></iframe>
+          </div>
+        {% endif %}
       </div>
 
       <div class='col-xs-8'>
@@ -35,7 +46,11 @@ layout: default
 
           {% capture speaker_slug %}{{ page.speaker | slugify }}{% endcapture %}
           <div class='col-xs-2 biography-image-col'>
-            <img src='/assets/images/{{ page.year }}/{{ speaker_slug }}.jpg' class='img-responsive' />
+            {% if page.bio_photo %}
+              <img src='/assets/images/{{ page.year }}/{{ page.bio_photo }}.jpg' class='img-responsive' />
+            {% else %}
+              <img src='/assets/images/placeholder.jpg' class='img-responsive' />
+            {% endif %}
           </div>
 
           <div class='col-xs-10'>

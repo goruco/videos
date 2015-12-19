@@ -3,6 +3,7 @@ speaker: Nathan Artz
 title: An Approach to Developing and Testing Third Party Javascript Widgets
 year: 2014
 vimeo_video_id: 101020271
+bio_photo: nathan-artz
 ---
 
 Google Analytics, Like Buttons, Twitter Widgets, Olark chat boxes; all examples of third party JavaScript elements that are embedded by users in their websites.

@@ -4,6 +4,7 @@ title: Real-time Communication for Everyone!
 year: 2014
 twitter: lisamarienyc
 vimeo_video_id: 102226639
+bio_photo: lisa-larson-kelley
 ---
 
 WebRTC is a powerful open-source project that seamlessly enables real-time communication (RTC)– baked right into modern web browsers. This means web developers can now incorporate video, voice and data sharing using peer-to-peer connectivity via simple JavaScript APIs, with no plugins or additional installs required.

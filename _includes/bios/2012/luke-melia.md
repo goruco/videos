@@ -1,0 +1,3 @@
+Luke Melia is CTO and co-founder of Yapp and has earlier been VP, Engineering at Weplay and Director of Software Development at Oxygen Media. Prior to that, he owned a small software company in Charlottesville, Virginia. Since discovering Ruby in 2005, he has has been active in the Ruby community, helping to organize the first GoRuCo, speaking at GoRuCo 2010, presenting at nyc.rb, contributing to several open source projects including Tracks and Rails, and contributing a chapter to “Ruby in Practice” from Manning. He enjoys beach volleyball teaching his two young daughter how to program with KidsRuby.
+
+

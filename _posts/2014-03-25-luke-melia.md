@@ -4,6 +4,7 @@ title: Growing a Tech Community
 year: 2014
 twitter: lukemelia
 vimeo_video_id: 101020270
+bio_photo: luke-melia
 ---
 
 For the last two years, I've been growing the Ember.js community in NYC from nearly nothing to a vibrant group. Most of what works well for me are things that I learned from getting my sea legs in the Ruby community, so what better place to share than GORUCO?

@@ -1,0 +1,1 @@
+Jeremy Ashkenas is part of the Interactive News team at the New York Times, as well as the lead developer of DocumentCloud, helping news organizations analyze and publish the primary source documents behind the news. He works on CoffeeScript, Backbone.js, Underscore.js, Docco, Jammit, and Ruby-Processing, among other opensource projects

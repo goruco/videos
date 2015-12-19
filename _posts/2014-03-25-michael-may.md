@@ -3,6 +3,7 @@ speaker: Michael May
 title: Edge Caching Dynamic Rails Apps
 year: 2014
 vimeo_video_id: 101015190
+bio_photo: michael-may
 ---
 
 Your rails app is slow. Even after memory caching, optimizing queries, and adding servers the problem persists, killing your user experience. You’ve heard of services called "Content Delivery Networks" (CDNs), that could help, but they only seem to work with static content. Worry not, for there is a solution: dynamic content caching at the edge. In this talk, we explain how CDNs can be used to accelerate dynamic rails applications.
