@@ -1,0 +1,1 @@
+Julie Gill is a developer at [StreetEasy.com](http://StreetEasy.com) and works on everything from making things look pretty on the front end to keeping things running smoothly under the hood of the app.  After hours you can find her playing her euphonium (picture a mini tuba), pumping iron at the gym, or cooking awesome paleo food.

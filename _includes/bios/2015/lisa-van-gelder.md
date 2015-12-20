@@ -1,0 +1,1 @@
+Lisa has over 15 years experience in software engineering, including leading and managing software development teams. Her career has taken her between London and New York at companies ranging from small startups to large media organizations - including the Guardian and the BBC. She is currently VP of Engineering at Stride.

@@ -1,0 +1,1 @@
+John Pignata is a local New York City developer. He spends his days building systems at [GroupMe](http://groupme.com) to facilitate the exchange of millions of messages a day between friends and families within private groups on their mobile phones.

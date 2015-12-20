@@ -1,0 +1,1 @@
+André Arko has been a Rubyist for 8 years. In that time, he's written a lot of gems, including jquery-rails, and somehow wound up on the Bundler core team. He spends a lot of time excited to be writing in or about Ruby.

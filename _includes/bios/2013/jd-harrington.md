@@ -1,0 +1,1 @@
+JD Harrington is a full-stack engineer at [StreetEasy.com](http://streeteasy.com), working equally in Ruby and Rails application development and systems operations. When not fighting with computers, he is generally obsessed with music and is heavily involved in NYC's electronic music scene, as both a fan and a DJ.

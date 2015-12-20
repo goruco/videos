@@ -1,0 +1,1 @@
+Michael Bernstein is a Brooklyn based software developer, educator, musician, and food and drink fanatic. He is currently the Development Manager at [Paperless Post](http://paperlesspost.com), a New York City based startup.
