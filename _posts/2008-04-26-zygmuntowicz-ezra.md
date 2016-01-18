@@ -1,7 +1,6 @@
 ---
 speaker: Ezra Zygmuntowicz
 title: Merb, All You Need, None You Don't
-author: GORUCO
 year: 2008
 youtube_video_id: BqjPOC_ckG4
 bio_photo: ezra-zygmuntowicz
