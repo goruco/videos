@@ -54,8 +54,7 @@ layout: default
           </div>
 
           <div class='col-xs-10'>
-            {% capture biography-include %}{% include bios/{{ page.year | append: '/' | append: speaker_slug }}.md %}{% endcapture %}
-            {{ biography-include | markdownify }}
+            {% include bios/{{ page.year | append: '/' | append: speaker_slug }}.md %}
           </div>
         </div>
       </div>
