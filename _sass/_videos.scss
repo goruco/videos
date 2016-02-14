@@ -1,4 +1,14 @@
 .videos {
+  .row {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
   h5 {
     font-weight: 700;
     margin-top: 50px;
@@ -6,22 +16,14 @@
   }
 
   .video {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
     font-weight: 700;
     background-color: white;
     padding: 10px;
     margin-bottom: 20px;
-
-    @include sm-screen {
-      min-height: 280px;
-    }
-
-    @include md-screen {
-      min-height: 250px;
-    }
-
-    @include lg-screen {
-      min-height: 250px;
-    }
 
     a {
       color: $brown;
