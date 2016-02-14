@@ -15,6 +15,8 @@ url: "http://videos.goruco.com" # the base hostname & protocol for your site
 twitter_username: goruco
 github_username:  goruco
 
+permalink: /:year/:title
+
 # Build settings
 markdown: kramdown
 
