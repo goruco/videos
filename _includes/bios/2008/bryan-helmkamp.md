@@ -1,4 +1,4 @@
-[Bryan Helmkamp](http://brynary.com/) is a senior Rails software engineer at weplay in New
+<a href="http://brynary.com/">Bryan Helmkamp</a> is a senior Rails software engineer at weplay in New
 York.  He is a strong advocate for Behavior Driven Development and an
 active participant in the RSpec community. Recently, he released the
 Webrat (Ruby Acceptance Testing for Web applications) plugin, which

@@ -1,4 +1,4 @@
-[Paul Dix](http://www.pauldix.net) has been working with Ruby and Rails since 2005 when he first
+<a href="http://www.pauldix.net">Paul Dix</a> has been working with Ruby and Rails since 2005 when he first
 started attending meetings at <span class="caps">NYC</span>.rb. Paul was a speaker at GoRuCo
 2007 where he presented on the topic of document classification. He is
 also the author of the Basset Ruby Gem, which provides an <span class="caps">API</span> for

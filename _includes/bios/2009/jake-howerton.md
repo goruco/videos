@@ -1,4 +1,4 @@
-[Jake Howerton](http://jake.howmeta.com/) is a developer from Brooklyn, NY. Jake has been a
+<a href="http://jake.howmeta.com/">Jake Howerton</a> is a developer from Brooklyn, NY. Jake has been a
 (relatively) active member of #nycrb and been working professionally
 with Ruby and Ruby on Rails projects since late 2005. Jake has served
 as the Chief Technologist of startup space Sunshine Suites, and is

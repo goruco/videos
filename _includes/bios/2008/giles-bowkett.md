@@ -1,4 +1,4 @@
-[Giles Bowkett](http://gilesbowkett.blogspot.com/)'s programming blog is well-read in the Ruby community
+<a href="http://gilesbowkett.blogspot.com/">Giles Bowkett's</a> programming blog is well-read in the Ruby community
 and occasionally gets 10,000-visit days. He has worked with Perl, <span class="caps">PHP</span>,
 Python, Java, JavaScript, ActionScript &#8211; all the usual suspects &#8211; and
 now spends nearly all his time coding Ruby. He&#8217;s worked on the
