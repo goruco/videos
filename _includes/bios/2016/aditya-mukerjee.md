@@ -1,0 +1,1 @@
+Aditya is an engineer at Stripe on the Risk team, tased in New York City. He studied statistics at Columbia and computer science at Cornell, and has been writing Go professionally for the past four years. When not defending users against online fraudsters, he spends his free time playing German-style board games and listening to embarrassing music.
