@@ -1,0 +1,2 @@
+I discovered my passion for programming in an inner-city middle school in Houston, Texas where I was a first year teacher with Teach for America. Armed with a Lego Mindstorms kit, I started an after-school robotics club and eventually, with a lot of hard work, my students marched all the way to the Texas Botball championship. Later on, I realized programming was something I wanted to do full-time. I still miss teaching so don't be surprised if I have to resist the urge to issue a few detentions.
+

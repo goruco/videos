@@ -1,0 +1,2 @@
+Bryan Helmkamp is the founder and CEO of Code Climate, where he helps software development teams improve their code quality with static analysis. In New York, he was CTO at Efficiency 2.0, a company focused on using science to help people lower the energy use, and also an engineer at Gilt Groupe. He has given popular talks on software engineering principles and practices around the world. Bryan co-authored the book Service Oriented Design with Ruby and also the RSpec Book.
+
