@@ -17,8 +17,21 @@ layout: default
           <div class='video'>
             <a href='{{ post.url }}'>
              <img src='/assets/images/{{ post.year }}/{{ post.speaker | slugify }}-video.jpg' class='img-responsive' />
-              <div class='post-title'>
-                {{ post.title }} - {{post.speaker}}
+
+              <div class='hidden-xs'>
+                <div class='post-title'>
+                  {{ post.title }} - {{post.speaker}}
+                </div>
+              </div>
+
+              <div class='visible-xs'>
+                <div class='post-title'>
+                  {{ post.title }}
+                </div>
+                <p />
+                <div class='post-speaker-name'>
+                  {{post.speaker}}
+                </div>
               </div>
             </a>
           </div>
