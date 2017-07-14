@@ -9,7 +9,7 @@ layout: default
   {% for year_to_posts in grouped_posts %}
     <div class='row'>
       <div class='col-xs-12'>
-        <h5>{{ year_to_posts.name }}</h5>
+        <h5><a id="{{ year_to_posts.name | slugify }}" href="#{{ year_to_posts.name | slugify }}">{{ year_to_posts.name }}</a></h5>
       </div>
 
       {% for post in year_to_posts.items %}
