@@ -1,0 +1,1 @@
+Notably, I emcee'd the end-of-year talent show at Jackson Middle School in Houston, TX during my second year of Teach for America. Since then I moved to New York and discovered programming, among other things. I'm now learning how to be a dad to my baby boy, Jasper.
