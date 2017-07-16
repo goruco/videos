@@ -1,0 +1,1 @@
+Sam Phippen is a swashbuckling hacker, from London UK. He lives in New York City now, working for DigitalOcean. He's a member of the RSpec core team. He's ✨ Your Pal Sam ✨. He's sad that he can't hug every cat.

@@ -1,0 +1,1 @@
+I'm a former physicist turned computer scientist who currently finds joy working with distributed systems with Go, and trying to make physics and computer science converge. Proud Mexican and tea junkie.
