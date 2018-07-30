@@ -1,0 +1,1 @@
+Joe is the founder and president of Def Method. After spending more than a decade delivering high-quality software solutions spanning government, education, finance and e-commerce, Joe set out to offer something unique in New York City: a development shop of talented engineers who can step back and see the bigger picture.

@@ -1,0 +1,1 @@
+Megan is a Senior Software Engineer at CallRail that loves solving problems with Ruby and helping other developers grow. She works to make technology more accessible to women and people of underrepresented groups in any way she can. Megan also hopes to pet every dog in existence.

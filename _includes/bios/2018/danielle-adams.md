@@ -1,0 +1,1 @@
+Danielle is a full-stack software engineer in New York. Her expertise stretches between front-end heavy web applications and a variety of back-ends, built in Ruby. In her free time, she enjoys live music, food, teaching others to code, and hanging out with her cat.

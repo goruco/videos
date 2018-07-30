@@ -1,0 +1,1 @@
+Aaron is on the Ruby core team, the Rails core team, and the team that takes care of his cat, Gorby puff.  During the day he works for a small technology company called GitHub.  Someday he will find the perfect safety gear to wear while extreme programming.

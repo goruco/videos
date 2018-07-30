@@ -1,0 +1,1 @@
+Melissa is the founder of RubyThursday, a free weekly online show that gives junior Rails developers bite sized tutorials, tips and tricks to help them grow. She co-organizes the Ruby Roundtable Meetup. Along with her husband, she builds startups for non-technical entrepreneurs. She loves sci-fi and knitting.

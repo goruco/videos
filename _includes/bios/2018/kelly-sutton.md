@@ -1,0 +1,1 @@
+Kelly is an engineering manager at Gusto. In the past, he created LayerVault, Designer News, and a blog for college students. He is currently based in San Francisco, CA. He regularly writes blog posts about software engineering at <a href='https://kellysutton.com' target='_blank'>https://kellysutton.com</a>
