@@ -1,0 +1,1 @@
+Sam is an engineer at DigitalOcean. He comes to the table with enthusiasm, and a great deal of love for the Ruby community. He fights for the forces of justice as a member of the RSpec core team. He's sad that he can't hug every cat.

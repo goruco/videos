@@ -1,0 +1,1 @@
+Rushaine is a software engineer who specializes in building JavaScript and Ruby on Rails web applications. When she’s not writing code for Kickstarter, she’s working on side projects to stay update to with current technologies or helping run Manhattan.js a local JS meetup in NYC.

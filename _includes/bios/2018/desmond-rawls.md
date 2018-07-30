@@ -1,0 +1,1 @@
+Desmond is a passionate explorer of new ideas. He likes working in software because he experiences so many different industries and perspectives. He thinks the philosophical side of what developers do is drastically under-rated and hopes to change that.
