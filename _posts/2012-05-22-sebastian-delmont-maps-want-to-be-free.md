@@ -2,7 +2,7 @@
 speaker: Sebastian Delmont
 title: Maps want to be free!
 year: 2012
-vimeo_video_id: 45132112
+youtube_video_id: XMH5zJpCqBE
 ---
 
 How to build your own online maps and free yourself from Google Maps limitations and fees.

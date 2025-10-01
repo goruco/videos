@@ -2,7 +2,7 @@
 speaker: Justin Leitgeb
 title: Sensible Testing
 year: 2012
-vimeo_video_id: 45096253
+youtube_video_id: 10pFYwST7IA
 ---
 
 Most Ruby programmers spend significant time writing, maintaining and troubleshooting automated tests. While recent discussions in the Ruby community have focused on whether we're writing too few or too many tests, this talk looks at how we can write "sensible" tests that allow our applications to deliver the most possible value with the least amount of development time and effort.
