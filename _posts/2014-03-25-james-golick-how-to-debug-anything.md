@@ -2,7 +2,7 @@
 speaker: James Golick
 title: How to Debug Anything
 year: 2014
-vimeo_video_id: 102226493
+youtube_video_id: VV7b7fs4VI8
 bio_photo: james-golick
 ---
 

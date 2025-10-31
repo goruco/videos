@@ -2,7 +2,7 @@
 speaker: Paul Dix
 title: Building Web Service Clients with ActiveModel
 year: 2010
-vimeo_video_id: 12811450
+youtube_video_id: AsAe4nIkDdg
 missing_photo: true
 ---
 

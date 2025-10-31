@@ -2,7 +2,7 @@
 speaker: Michael May
 title: Edge Caching Dynamic Rails Apps
 year: 2014
-vimeo_video_id: 101015190
+youtube_video_id: 60rjetFNA_Q
 bio_photo: michael-may
 ---
 

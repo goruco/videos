@@ -3,7 +3,7 @@ speaker: Luke Melia
 title: Growing a Tech Community
 year: 2014
 twitter: lukemelia
-vimeo_video_id: 101020270
+youtube_video_id: 23MsBL3kEHk
 bio_photo: luke-melia
 ---
 

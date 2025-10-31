@@ -2,7 +2,7 @@
 speaker: Samantha John, Jason Brennan
 title: Designing a better Programmer Community
 year: 2014
-vimeo_video_id: 101020272
+youtube_video_id: mtdaNlYyRCs
 bio-photo: samantha-john-jason-brennan
 ---
 
