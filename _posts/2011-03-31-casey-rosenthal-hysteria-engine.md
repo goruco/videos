@@ -3,7 +3,7 @@ speaker: Casey Rosenthal
 title: HysteriaEngine
 author: GORUCO
 year: 2011
-vimeo_video_id: 27151032
+youtube_video_id: e3MI_Ak85vM
 ---
 
 I will present the inner workings of my Ruby algorithm, called HysteriaEngine, which uses personality profiles to generate human-like behavior for an agent, in this case a bot that plays in UnrealTournament2004. I will cover the stack needed to run the bot, using Ruby on top of a little Java, but primarily I will deconstruct the algorithm that generates the commands that drive the bot, code structure decisions in designing the algorithm, and the complexity involved in generating human-like behavior.
