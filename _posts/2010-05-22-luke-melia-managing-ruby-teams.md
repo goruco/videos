@@ -2,7 +2,7 @@
 speaker: Luke Melia
 title: Managing Ruby Teams
 year: 2010
-vimeo_video_id: 12753163
+youtube_video_id: 5IaCR5YmkLc
 ---
 
 Why a talk on managing a development team at a Ruby conference? That would imply that managing a team of Ruby developers is different than managing other development teams. Not just different as in Ruby-is-more-dynamic-and-expressive-than-Java different… although language properties do influence team dynamics and collaboration styles. Not just different as in the fast-changing, entrepreneurial types of environment that Ruby tends to be deployed in… though those environments certainly present challenges to leading and motivating teams.

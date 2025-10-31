@@ -2,7 +2,7 @@
 speaker: Chris Hunt
 title: Secrets of a World Memory Champion
 year: 2014
-vimeo_video_id: 102226408
+youtube_video_id: k44oJ961eFM
 bio_photo: chris-hunt
 ---
 

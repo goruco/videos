@@ -2,7 +2,7 @@
 speaker: Alex MacCaw
 title: Bowline - Ruby Desktop Applications
 year: 2010
-vimeo_video_id: 12793105
+youtube_video_id: 29gPkhF74uI
 ---
 
 If you’ve ever wished creating desktop application was as easy as creating a Rails site, then this session is for you. Developed in a real business environment, Bowline is a Ruby desktop framework that is aiming to be the Rails of the desktop world.

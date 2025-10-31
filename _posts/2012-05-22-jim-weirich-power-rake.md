@@ -2,7 +2,7 @@
 speaker: Jim Weirich
 title: Power Rake
 year: 2012
-vimeo_video_id: 45132438
+youtube_video_id: KaEqZtulOus
 ---
 
 Every Ruby developer uses the Rake program all the time, whether to run the database migrations in their Rails project or to just execute their tests.  Some might have even written their own rake tasks to help them perform some menial development task.

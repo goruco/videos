@@ -2,7 +2,7 @@
 speaker: Nick Gauthier
 title: Grease your Suite Tips and Tricks for Faster Testing
 year: 2010
-vimeo_video_id: 12705404
+youtube_video_id: 3x1uXnvVwdY
 missing_photo: true
 ---
 

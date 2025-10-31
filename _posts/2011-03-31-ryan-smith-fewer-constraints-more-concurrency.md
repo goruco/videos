@@ -2,7 +2,7 @@
 speaker: Ryan Smith
 title: Fewer Constraints More Concurrency
 year: 2011
-vimeo_video_id: 25837628
+youtube_video_id: Hgx0FxEr7EY
 ---
 
 Traditional data structures like stacks and queues are strict - perhaps too strict. In this talk I will showcase some classical data structures and then provide alternative constraints that will allow our algorithms to achieve a greater level of concurrency.

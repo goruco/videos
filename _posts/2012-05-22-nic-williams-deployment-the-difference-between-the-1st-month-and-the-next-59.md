@@ -2,7 +2,7 @@
 speaker: Nic Williams
 title: Deployment - the difference between the 1st month and the next 59
 year: 2012
-vimeo_video_id: 44807823
+youtube_video_id: 7BK5U677jKk
 ---
 
 When you type "cap deploy", "ey deploy", or "git push heroku master" your intent is to deploy your local application source to your running system on the Internet. That seems to be the point - you changed your code, and you want to Just Ship It. But what is your actual objective? Is it really to just "deploy app code changes"? Is this "app-centric" view and user experience satisfactory?

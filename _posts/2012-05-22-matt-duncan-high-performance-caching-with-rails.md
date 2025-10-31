@@ -2,7 +2,7 @@
 speaker: Matt Duncan
 title: High Performance Caching with Rails
 year: 2012
-vimeo_video_id: 45094725
+youtube_video_id: 8A9t9nE4kkk
 ---
 
 <p>At Yammer, we handle thousands of requests per second for pages which consist of private data that varies based on perspective. This perspective makes it difficult to take advantage of traditional Rails caching techniques. To solve this problem, we've moved almost all of our caching to the data layer.</p>

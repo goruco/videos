@@ -2,7 +2,7 @@
 speaker: Matt Wynne
 title: Hexagonal Rails
 year: 2012
-vimeo_video_id: 44807822
+youtube_video_id: CxjQoUkRfDw
 ---
 
 <p>

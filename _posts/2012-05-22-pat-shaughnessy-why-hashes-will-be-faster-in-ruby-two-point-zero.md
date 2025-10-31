@@ -2,7 +2,7 @@
 speaker: Pat Shaughnessy
 title: Why Hashes Will Be Faster in Ruby 2.0
 year: 2012
-vimeo_video_id: 45095659
+youtube_video_id: YHULcgaATh4
 ---
 
 <p>The upcoming Ruby 2.0 release contains an interesting performance optimization you may not have heard of before: small Hashes are actually implemented as Arrays!</p>

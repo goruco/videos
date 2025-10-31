@@ -2,7 +2,7 @@
 speaker: Sandi Metz
 title: Less - The Path to Better Design
 year: 2011
-vimeo_video_id: 26330100
+youtube_video_id: X8ergNY2pgc
 ---
 
 The concrete principles of object-oriented design are useful but are built upon powerful concepts that the principles tend to obscure. When design principles become goals in and of themselves, object-oriented design gets a bad name and applications suffer.

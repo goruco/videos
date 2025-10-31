@@ -2,7 +2,7 @@
 speaker: Aman Gupta
 title: Memprof - The ruby level memory profiler
 year: 2010
-vimeo_video_id: 12748731
+youtube_video_id: djqDRbZfO8A
 ---
 
 Ever wondered why your ruby script uses so much RAM? Tired of having god restart your rails app every few hours?

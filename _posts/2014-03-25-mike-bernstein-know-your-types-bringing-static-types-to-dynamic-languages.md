@@ -2,7 +2,7 @@
 speaker: Mike Bernstein
 title: Know Your Types - Bringing Static Types to Dynamic Languages
 year: 2014
-vimeo_video_id: 101415185
+youtube_video_id: _HM8Vczybj4
 bio_photo: mike-bernstein
 ---
 
