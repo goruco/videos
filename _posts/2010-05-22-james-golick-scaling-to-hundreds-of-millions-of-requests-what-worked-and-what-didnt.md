@@ -2,7 +2,7 @@
 speaker: James Golick
 title: Scaling to Hundreds of Millions of Requests What Worked and What Didn’t
 year: 2010
-vimeo_video_id: 12814529
+youtube_video_id: NSfXIGG7ue8
 ---
 
 All over the web, people are discussing the latest scalable database, the newest testing strategy, or even cloud computing. Claims are made about scalability, reliability, and performance. But by definition, most of this hype is simply conjecture. Its authors rarely have the experience to support their claims.
