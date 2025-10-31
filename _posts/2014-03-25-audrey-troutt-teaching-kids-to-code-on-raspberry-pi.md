@@ -2,7 +2,7 @@
 speaker: Audrey Troutt
 title: Teaching Kids to Code on Raspberry Pi
 year: 2014
-vimeo_video_id: 101030625
+youtube_video_id: E8xCgOjnZZY
 bio_photo: audrey-troutt
 ---
 
